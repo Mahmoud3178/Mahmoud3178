@@ -39,7 +39,9 @@
 
 | Project | Repo Link |
 |--------|-----------|
+| Trainning & Problem Solving On PHP And Laravel | https://github.com/Mahmoud3178/Trainning_PHP-Laravel.git |
 | full stack programming book store (Laravel/ Angular)| https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular.git |
+
 
 ---
 
