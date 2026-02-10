@@ -24,7 +24,7 @@
 ---
 
 ## 🧑‍💻 Angular / TypeScript Projects
-| Project | Repo Link |
+| Project | Live Demo | Repo Link |
 |--------|-----------|
 | My Portfolio | https://mahmoud3178.github.io/my-portofolio | https://github.com/Mahmoud3178/my-portofolio |
 | Landing Page | https://mahmoud3178.github.io/landing-page | https://github.com/Mahmoud3178/landing-page |
