@@ -58,8 +58,9 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,github,git,figma,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,cs,dotnet,github,git,figma,python,visualstudio" />
 </p>
+
 
 ---
 
