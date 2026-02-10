@@ -9,7 +9,7 @@
 
 ## 📁 Front-End Projects (HTML / CSS / JS)
 
-### 🔵 HTML & CSS Projects  
+### 🔵 HTML & CSS & JS Projects  
 | Project | Live Demo | Repo Link |
 |--------|-----------|-----------|
 | Final Project NTI | https://mahmoud3178.github.io/Final-Project-NTI | https://github.com/Mahmoud3178/Final-Project-NTI |
@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 Angular / TypeScript Projects
 | Project | Live Demo | Repo Link |
-|--------|-----------|
+|--------|-----------|-----------|
 | My Portfolio | https://mahmoud3178.github.io/my-portofolio | https://github.com/Mahmoud3178/my-portofolio |
 | Landing Page | https://mahmoud3178.github.io/landing-page | https://github.com/Mahmoud3178/landing-page |
 | Yummy (FINAL PROJECT Corse) | https://yummy-9bcd6.web.app | https://github.com/Mahmoud3178/yummy |
