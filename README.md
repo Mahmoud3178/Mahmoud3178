@@ -39,7 +39,7 @@
 
 | Project | Repo Link |
 |--------|-----------|
-| full stack programmong book store (Laravel/ Angular)| https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular.git |
+| full stack programming book store (Laravel/ Angular)| https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular.git |
 
 ---
 
