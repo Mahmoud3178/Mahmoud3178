@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Eng Mahmoud</h1>
-<h3 align="center">A passionate Frontend Developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
+
+<p align="center">
+  I am a **Full-Stack Developer** with experience in **Angular, ASP.NET, PHP, and Laravel**.  
+  I enjoy building modern and responsive web applications, from front-end interfaces to back-end logic and databases.
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,cs,dotnet,github,git,figma,python,visualstudio" />
+</p>
+
+- **Front-End:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap  
+- **Back-End:** ASP.NET Core, PHP, Laravel, C#  
+- **Databases:** SQL Server, MySQL  
+- **Tools:** Git, GitHub, Visual Studio, Figma  
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahmoud3178&label=Profile%20views&color=0e75b6&style=flat" />
