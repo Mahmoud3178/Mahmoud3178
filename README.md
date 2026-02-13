@@ -69,7 +69,15 @@
   <a href="https://www.linkedin.com/in/mahmoud-ahmed54">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="mailto:nmm3598@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+📧 Email: nmm3598@gmail.com  
+📱 Phone: 01097535931
+
 
 ---
 
