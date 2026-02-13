@@ -74,9 +74,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://wa.me/201097535931" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
+
 </p>
 
 
