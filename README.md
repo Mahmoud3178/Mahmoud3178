@@ -50,11 +50,11 @@
 ##Back-End Projects (.Net)
 
 
-| Project | Repo Link |
-|--------|-----------|
-| Problem Solving C#,OOP,Advanced C# and Entity Framework | https://github.com/Mahmoud3178/problem_solving.git |
 | Project | Live Demo | Repo Link |
-|--------|-----------|
+|--------|-----------|-----------|
+| Problem Solving C#,OOP,Advanced C# and Entity Framework | https://github.com/Mahmoud3178/problem_solving.git | _ | 
+
+|--------|-----------|-----------|
 | Full Stack Project(Asp.Net & Angular) | https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-.git | https://front-end-angular-project.vercel.app/ |
 ---
 
