@@ -72,15 +72,7 @@
 |--------|-----------|-----------|
 | Problem Solving C#,OOP,Advanced C# and Entity Framework | https://github.com/Mahmoud3178/problem_solving.git | _ | 
 | Full Stack Project(Asp.Net & Angular) | https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-.git | https://front-end-angular-project.vercel.app/ |
----
 
-## 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,cs,dotnet,github,git,figma,python,visualstudio" />
-</p>
-
-
----
 
 ## 📞 Connect With Me
 <p>
