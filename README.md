@@ -1,104 +1,127 @@
-<h1 align="center">Hi 👋, I'm Eng Mahmoud</h1>
-<h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
+<div align="center">
 
-<p align="center">
-  I am a **Full-Stack Developer** with experience in **Angular, ASP.NET, PHP, and Laravel**.  
-  I enjoy building modern and responsive web applications, from front-end interfaces to back-end logic and databases.
+# Hi 👋, I'm Eng Mahmoud
+### 🚀 Full-Stack Developer from Egypt 🇪🇬
+
+<p>
+  I'm a passionate <strong>Full-Stack Developer</strong> with hands-on experience in
+  <strong>Angular, ASP.NET Core, PHP, and Laravel</strong>.<br/>
+  I love crafting modern web apps — from pixel-perfect UIs to robust back-end APIs.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=mahmoud3178&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🛠️ Skills & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,cs,dotnet,github,git,figma,python,visualstudio" />
 </p>
 
-- **Front-End:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap  
-- **Back-End:** ASP.NET Core, PHP, Laravel, C#  
-- **Databases:** SQL Server, MySQL  
-- **Tools:** Git, GitHub, Visual Studio, Figma  
+| Area | Technologies |
+|------|-------------|
+| **Front-End** | HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap |
+| **Back-End** | ASP.NET Core, PHP, Laravel, C# |
+| **Databases** | SQL Server, MySQL |
+| **Tools** | Git, GitHub, Visual Studio, Figma |
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud3178&label=Profile%20views&color=0e75b6&style=flat" />
+## 🌟 Featured Projects
+
+### 📰 Akhbarna — Arabic News Aggregator
+> Full-Stack news platform collecting Arabic news from CNN, BBC, Sky News & more via RSS
+
+| Layer | Tech | Links |
+|-------|------|-------|
+| 🔵 Frontend | Angular | *(coming soon)* |
+| 🟢 Backend API | ASP.NET Core 8 | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Mahmoud3178/AkhabarnaAPI) [![Live](https://img.shields.io/badge/Live-API-success?style=flat&logo=swagger)](http://akhbarna1.runasp.net/swagger/index.html) |
+
+---
+
+### 🎓 Graduation Project — Wear Cast
+> Full-Stack E-Commerce fashion platform
+
+| Layer | Tech | Links |
+|-------|------|-------|
+| 🔵 Frontend | Angular / TypeScript | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Mahmoud3178/Wear_Cast_Frontend_GraduationProject) |
+| 🟢 Backend API | ASP.NET Core | *(add repo link)* |
+
+---
+
+## 📁 All Projects
+
+### 🔵 HTML / CSS / JS
+| Project | Live | Repo |
+|---------|------|------|
+| Final Project NTI | [🔗 Demo](https://mahmoud3178.github.io/Final-Project-NTI) | [📁 Repo](https://github.com/Mahmoud3178/Final-Project-NTI) |
+| Final Project NTI v2 | [🔗 Demo](https://mahmoud3178.github.io/final-projecy--NTI) | [📁 Repo](https://github.com/Mahmoud3178/final-projecy--NTI) |
+| Notification Page | [🔗 Demo](https://mahmoud3178.github.io/notification_page) | [📁 Repo](https://github.com/Mahmoud3178/notification_page) |
+| E-Commerce Page | [🔗 Demo](https://mahmoud3178.github.io/E-commerce-page) | [📁 Repo](https://github.com/Mahmoud3178/E-commerce-page) |
+| Age Calculator | [🔗 Demo](https://mahmoud3178.github.io/age-calcolator) | [📁 Repo](https://github.com/Mahmoud3178/age-calcolator) |
+| Calculator Page | [🔗 Demo](https://mahmoud3178.github.io/calculator-page) | [📁 Repo](https://github.com/Mahmoud3178/calculator-page) |
+
+---
+
+### 🅰️ Angular / TypeScript
+| Project | Live | Repo |
+|---------|------|------|
+| My Portfolio | [🔗 Demo](https://mahmoud3178.github.io/my-portofolio) | [📁 Repo](https://github.com/Mahmoud3178/my-portofolio) |
+| Landing Page | [🔗 Demo](https://mahmoud3178.github.io/landing-page) | [📁 Repo](https://github.com/Mahmoud3178/landing-page) |
+| Yummy (Final Course Project) | [🔗 Demo](https://yummy-9bcd6.web.app) | [📁 Repo](https://github.com/Mahmoud3178/yummy) |
+| OnDemand v1 | [🔗 Demo](https://ondemand-service.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/ondemand) |
+| E-Commerce Angular | — | [📁 Repo](https://github.com/Mahmoud3178/front-end-angular-project) |
+| 🎓 Wear Cast (Graduation) | — | [📁 Repo](https://github.com/Mahmoud3178/Wear_Cast_Frontend_GraduationProject) |
+
+---
+
+### 🐘 PHP / Laravel
+| Project | Repo |
+|---------|------|
+| Training & Problem Solving | [📁 Repo](https://github.com/Mahmoud3178/Trainning_PHP-Laravel) |
+| Full Stack Book Store (Laravel + Angular) | [📁 Repo](https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular) |
+
+---
+
+### ⚙️ ASP.NET / C#
+| Project | Live | Repo |
+|---------|------|------|
+| Problem Solving — C#, OOP, EF | — | [📁 Repo](https://github.com/Mahmoud3178/problem_solving) |
+| EntityFramework & LINQ Project | — | [📁 Repo](https://github.com/Mahmoud3178/EntityFramework-LINQ-_Project) |
+| Implement ERD-1 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-1-using-EntityFrameWork) |
+| Implement ERD-2 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-2-using-EF) |
+| Full Stack E-Commerce (ASP.NET + Angular) | [🔗 Demo](https://front-end-angular-project.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-) |
+| 📰 AkhabarnaAPI (News Aggregator) | [🔗 Live API](http://akhbarna1.runasp.net/swagger/index.html) | [📁 Repo](https://github.com/Mahmoud3178/AkhabarnaAPI) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&theme=tokyonight&locale=en" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud3178&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&show_icons=true&theme=tokyonight&layout=compact" width="48%" />
 </p>
 
 ---
-
-## 📁 Front-End Projects (HTML / CSS / JS)
-
-### 🔵 HTML & CSS & JS Projects  
-| Project | Live Demo | Repo Link |
-|--------|-----------|-----------|
-| Final Project NTI | https://mahmoud3178.github.io/Final-Project-NTI | https://github.com/Mahmoud3178/Final-Project-NTI |
-| Final Project NTI (v2) | https://mahmoud3178.github.io/final-projecy--NTI | https://github.com/Mahmoud3178/final-projecy--NTI |
-| Notification Page | https://mahmoud3178.github.io/notification_page | https://github.com/Mahmoud3178/notification_page |
-| E-Commerce Page | https://mahmoud3178.github.io/E-commerce-page | https://github.com/Mahmoud3178/E-commerce-page |
-| Age Calculator | https://mahmoud3178.github.io/age-calcolator | https://github.com/Mahmoud3178/age-calcolator |
-| Calculator Page | https://mahmoud3178.github.io/calculator-page | https://github.com/Mahmoud3178/calculator-page |
-| Task Page (145) | https://mahmoud3178.github.io/145 | https://github.com/Mahmoud3178/145 |
-| Task Repo | https://mahmoud3178.github.io/test- | https://github.com/Mahmoud3178/test- |
-
----
-
-## 🧑‍💻 Angular / TypeScript Projects
-| Project | Live Demo | Repo Link |
-|--------|-----------|-----------|
-| My Portfolio | https://mahmoud3178.github.io/my-portofolio | https://github.com/Mahmoud3178/my-portofolio |
-| Landing Page | https://mahmoud3178.github.io/landing-page | https://github.com/Mahmoud3178/landing-page |
-| Yummy (FINAL PROJECT Corse) | https://yummy-9bcd6.web.app | https://github.com/Mahmoud3178/yummy |
-| OnDemand (V1)  | https://github.com/Mahmoud3178/ondemand.git | https://ondemand-service.vercel.app/ |
-| E-COMMERCE Angular Project | — | https://github.com/Mahmoud3178/front-end-angular-project |
-
----
-
-##Back-End Projects (PHP / Laravel)
-
-
-| Project | Repo Link |
-|--------|-----------|
-| Trainning & Problem Solving On PHP And Laravel | https://github.com/Mahmoud3178/Trainning_PHP-Laravel.git |
-| full stack programming book store (Laravel/ Angular)| https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular.git |
-
-
----
-
----
-
-##Back-End Projects (.Net)
-
-| Project | Repo Link | Live Demo |
-|--------|-----------|-----------|
-| Problem Solving C#,OOP,Advanced C# and Entity Framework | https://github.com/Mahmoud3178/problem_solving.git | _ | 
-| Project EntityFramework & LINQ| https://github.com/Mahmoud3178/EntityFramework-LINQ-_Project.git | _ | 
-| implement ERD using EntityFramework| https://github.com/Mahmoud3178/Implement-ERD-1-using-EntityFrameWork.git | _ |
-| implement ERD-2 using EntityFramework| https://github.com/Mahmoud3178/Implement-ERD-2-using-EF.git | _ |
-| Full Stack Project(Asp.Net & Angular) | https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-.git | https://front-end-angular-project.vercel.app/ |
-
 
 ## 📞 Connect With Me
-<p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ahmed54">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:nmm3598@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-
 </p>
 
-
-📧 Email: nmm3598@gmail.com  
-📱 Phone: 01097535931
-
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&show_icons=true&locale=en&layout=compact" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud3178" /></p>
+<p align="center">
+  📧 nmm3598@gmail.com &nbsp;|&nbsp; 📱 01097535931
+</p>
