@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ahmed54">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-1b8443414">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nmm3598@gmail.com">
@@ -164,12 +164,12 @@ const mahmoud = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahmoud3178&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mahmoud3178&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -181,7 +181,10 @@ const mahmoud = {
 ## 📞 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ahmed54">
+  <a href="https://mahmoud-a-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-58a6ff?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-1b8443414">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nmm3598@gmail.com">
@@ -189,7 +192,7 @@ const mahmoud = {
   </a>
 </p>
 
-<p align="center">📧 nmm3598@gmail.com &nbsp;|&nbsp; 📱 01097535931</p>
+<p align="center">🌐 <a href="https://mahmoud-a-portfolio.vercel.app/">mahmoud-a-portfolio.vercel.app</a> &nbsp;|&nbsp; 📧 nmm3598@gmail.com &nbsp;|&nbsp; 📱 01097535931</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
