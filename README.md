@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Eng%20Mahmoud&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%F0%9F%87%AA%F0%9F%87%AC%20Egypt&descAlignY=60&descSize=20&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eng%20Mahmoud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%F0%9F%87%AA%F0%9F%87%AC%20Egypt&descAlignY=60&descSize=20&descColor=ffffffaa" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ const mahmoud = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,github,git,figma,visualstudio" />
 </p>
 
@@ -53,7 +53,7 @@ const mahmoud = {
       <h3 align="center">🎓 WearCast</h3>
       <p align="center">
         <a href="https://wearcast-theta.vercel.app/">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-wearcast--theta.vercel.app-success?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge" />
         </a>
       </p>
       <p align="center">
@@ -67,15 +67,15 @@ const mahmoud = {
       </p>
       <p align="center">
         <a href="https://github.com/Mahmoud3178/Wear_Cast_Frontend_GraduationProject">
-          <img src="https://img.shields.io/badge/Frontend_Repo-181717?style=flat&logo=github" />
+          <img src="https://img.shields.io/badge/Frontend_Repo-181717?style=flat&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📰 AkhabarnaAPI</h3>
+      <h3 align="center">📰 Akhbarna API</h3>
       <p align="center">
         <a href="http://akhbarna1.runasp.net/swagger/index.html">
-          <img src="https://img.shields.io/badge/🔗_Live_API-akhbarna1.runasp.net-85EA2D?style=for-the-badge&logo=swagger" />
+          <img src="https://img.shields.io/badge/🔗_Live_API-Swagger_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
         </a>
       </p>
       <p align="center">
@@ -85,12 +85,13 @@ const mahmoud = {
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/RSS_Feeds-FF6600?style=flat&logo=rss&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/Mahmoud3178/AkhabarnaAPI">
-          <img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat&logo=github" />
+          <img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat&logo=github&logoColor=white" />
         </a>
+        &nbsp;
         <img src="https://img.shields.io/badge/Frontend-Coming_Soon-orange?style=flat" />
       </p>
     </td>
@@ -128,6 +129,7 @@ const mahmoud = {
 | Yummy (Final Course Project) | [🔗 Demo](https://yummy-9bcd6.web.app) | [📁 Repo](https://github.com/Mahmoud3178/yummy) |
 | OnDemand v1 | [🔗 Demo](https://ondemand-service.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/ondemand) |
 | E-Commerce Angular | — | [📁 Repo](https://github.com/Mahmoud3178/front-end-angular-project) |
+| Sentinel | [🔗 Demo](https://sentinel-tr21.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Sentinel) |
 
 </details>
 
@@ -162,20 +164,33 @@ const mahmoud = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud3178&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud3178&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud3178&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahmoud3178&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud3178&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud3178&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
 
+## 📞 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed54">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nmm3598@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">📧 nmm3598@gmail.com &nbsp;|&nbsp; 📱 01097535931</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
