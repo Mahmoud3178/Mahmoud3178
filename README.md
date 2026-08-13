@@ -151,6 +151,8 @@ const mahmoud = {
 | Project | Live | Repo |
 |---------|------|------|
 | 📰 AkhabarnaAPI | [🔗 Live API](http://akhbarna1.runasp.net/swagger/index.html) | [📁 Repo](https://github.com/Mahmoud3178/AkhabarnaAPI) |
+| 🏥 HospitalSystem (Onion Architecture) | — | [📁 Repo](https://github.com/Mahmoud3178/HospitalSystem) |
+| 🚗 FleetRentAPI (Clean Architecture) | — | [📁 Repo](https://github.com/Mahmoud3178/FleetRentAPI) |
 | Full Stack E-Commerce (ASP.NET + Angular) | [🔗 Demo](https://front-end-angular-project.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-) |
 | Problem Solving — C#, OOP, EF | — | [📁 Repo](https://github.com/Mahmoud3178/problem_solving) |
 | EntityFramework & LINQ Project | — | [📁 Repo](https://github.com/Mahmoud3178/EntityFramework-LINQ-_Project) |
