@@ -49,7 +49,33 @@ const mahmoud = {
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">🚗 FleetRent</h3>
+      <p align="center">
+        <a href="https://fleet-rent-eight.vercel.app/">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        Car Rental &amp; Maintenance Management System<br/>
+        <strong>Full-Stack · Clean Architecture</strong>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-2ea44f?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mahmoud3178/FleetRentAPI">
+          <img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat&logo=github&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Mahmoud3178/FleetRent">
+          <img src="https://img.shields.io/badge/Frontend_Repo-181717?style=flat&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🎓 WearCast</h3>
       <p align="center">
         <a href="https://wearcast-theta.vercel.app/">
@@ -71,7 +97,7 @@ const mahmoud = {
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📰 Akhbarna API</h3>
       <p align="center">
         <a href="http://akhbarna1.runasp.net/swagger/index.html">
@@ -84,15 +110,12 @@ const mahmoud = {
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/RSS_Feeds-FF6600?style=flat&logo=rss&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/Mahmoud3178/AkhabarnaAPI">
           <img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat&logo=github&logoColor=white" />
         </a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Frontend-Coming_Soon-orange?style=flat" />
       </p>
     </td>
   </tr>
@@ -101,6 +124,52 @@ const mahmoud = {
 ---
 
 ## 📁 All Projects
+
+<details open>
+<summary><b>🚀 Full-Stack Projects</b></summary>
+<br/>
+
+| Project | Live | Repo |
+|---------|------|------|
+| 🚗 FleetRent — Car Rental & Maintenance (Clean Architecture) | [🔗 Live Demo](https://fleet-rent-eight.vercel.app/) | [📁 Backend](https://github.com/Mahmoud3178/FleetRentAPI) · [📁 Frontend](https://github.com/Mahmoud3178/FleetRent) |
+| 📚 Nexus Academy — Programming Academy Platform (Clean Architecture) | [🔗 Live API](http://nexusacademy.runasp.net/swagger/index.html) · [🔗 Live Demo](https://nexus-academy-lif3.vercel.app/) | — |
+| 🎓 WearCast — E-Commerce Fashion Platform (Graduation) | [🔗 Demo](https://wearcast-theta.vercel.app/) | [📁 Frontend Repo](https://github.com/Mahmoud3178/Wear_Cast_Frontend_GraduationProject) |
+| Full-Stack E-Commerce — Clothing Store (ASP.NET + Angular) | [🔗 Demo](https://front-end-angular-project.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-) |
+| OnDemand — Service Booking Platform (Angular + ASP.NET Core) | [🔗 Demo](https://ondemand-service.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/ondemand) |
+| Full-Stack Book Store (Laravel + Angular) | — | [📁 Repo](https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular) |
+
+</details>
+
+<details>
+<summary><b>🅰️ Frontend Projects (Angular / TypeScript)</b></summary>
+<br/>
+
+| Project | Live Demo | Repo |
+|---------|-----------|------|
+| My Portfolio | [🔗 Demo](https://mahmoud3178.github.io/my-portofolio) | [📁 Repo](https://github.com/Mahmoud3178/my-portofolio) |
+| Sentinel | [🔗 Demo](https://sentinel-tr21.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Sentinel) |
+| Yummy (Angular + Firebase) | [🔗 Demo](https://yummy-9bcd6.web.app) | [📁 Repo](https://github.com/Mahmoud3178/yummy) |
+| Landing Page | [🔗 Demo](https://mahmoud3178.github.io/landing-page) | [📁 Repo](https://github.com/Mahmoud3178/landing-page) |
+| E-Commerce Angular | — | [📁 Repo](https://github.com/Mahmoud3178/front-end-angular-project) |
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Projects (ASP.NET Core / C# / Laravel)</b></summary>
+<br/>
+
+| Project | Live | Repo |
+|---------|------|------|
+| 📰 AkhabarnaAPI (Arabic News Aggregator) | [🔗 Live API](http://akhbarna1.runasp.net/swagger/index.html) | [📁 Repo](https://github.com/Mahmoud3178/AkhabarnaAPI) |
+| 🏢 ERP-System (Clean Architecture — in progress) | — | [📁 Repo](https://github.com/Mahmoud3178/ERP-System) |
+| 🏥 HospitalSystem (Onion Architecture) | — | [📁 Repo](https://github.com/Mahmoud3178/HospitalSystem) |
+| Problem Solving — C#, OOP, EF | — | [📁 Repo](https://github.com/Mahmoud3178/problem_solving) |
+| EntityFramework & LINQ Project | — | [📁 Repo](https://github.com/Mahmoud3178/EntityFramework-LINQ-_Project) |
+| Implement ERD-1 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-1-using-EntityFrameWork) |
+| Implement ERD-2 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-2-using-EF) |
+| Training & Problem Solving (PHP / Laravel) | — | [📁 Repo](https://github.com/Mahmoud3178/Trainning_PHP-Laravel) |
+
+</details>
 
 <details>
 <summary><b>🔵 HTML / CSS / JS Projects</b></summary>
@@ -114,50 +183,6 @@ const mahmoud = {
 | E-Commerce Page | [🔗 Demo](https://mahmoud3178.github.io/E-commerce-page) | [📁 Repo](https://github.com/Mahmoud3178/E-commerce-page) |
 | Age Calculator | [🔗 Demo](https://mahmoud3178.github.io/age-calcolator) | [📁 Repo](https://github.com/Mahmoud3178/age-calcolator) |
 | Calculator Page | [🔗 Demo](https://mahmoud3178.github.io/calculator-page) | [📁 Repo](https://github.com/Mahmoud3178/calculator-page) |
-
-</details>
-
-<details>
-<summary><b>🅰️ Angular / TypeScript Projects</b></summary>
-<br/>
-
-| Project | Live Demo | Repo |
-|---------|-----------|------|
-| 🎓 WearCast (Graduation) | [🔗 Demo](https://wearcast-theta.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Wear_Cast_Frontend_GraduationProject) |
-| My Portfolio | [🔗 Demo](https://mahmoud3178.github.io/my-portofolio) | [📁 Repo](https://github.com/Mahmoud3178/my-portofolio) |
-| Landing Page | [🔗 Demo](https://mahmoud3178.github.io/landing-page) | [📁 Repo](https://github.com/Mahmoud3178/landing-page) |
-| Yummy (Final Course Project) | [🔗 Demo](https://yummy-9bcd6.web.app) | [📁 Repo](https://github.com/Mahmoud3178/yummy) |
-| OnDemand v1 | [🔗 Demo](https://ondemand-service.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/ondemand) |
-| E-Commerce Angular | — | [📁 Repo](https://github.com/Mahmoud3178/front-end-angular-project) |
-| Sentinel | [🔗 Demo](https://sentinel-tr21.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Sentinel) |
-
-</details>
-
-<details>
-<summary><b>🐘 PHP / Laravel Projects</b></summary>
-<br/>
-
-| Project | Repo |
-|---------|------|
-| Training & Problem Solving | [📁 Repo](https://github.com/Mahmoud3178/Trainning_PHP-Laravel) |
-| Full Stack Book Store (Laravel + Angular) | [📁 Repo](https://github.com/Mahmoud3178/Full_Stack_Laravel-Angular) |
-
-</details>
-
-<details>
-<summary><b>⚙️ ASP.NET Core / C# Projects</b></summary>
-<br/>
-
-| Project | Live | Repo |
-|---------|------|------|
-| 📰 AkhabarnaAPI | [🔗 Live API](http://akhbarna1.runasp.net/swagger/index.html) | [📁 Repo](https://github.com/Mahmoud3178/AkhabarnaAPI) |
-| 🏥 HospitalSystem (Onion Architecture) | — | [📁 Repo](https://github.com/Mahmoud3178/HospitalSystem) |
-| 🚗 FleetRentAPI (Clean Architecture) | — | [📁 Repo](https://github.com/Mahmoud3178/FleetRentAPI) |
-| Full Stack E-Commerce (ASP.NET + Angular) | [🔗 Demo](https://front-end-angular-project.vercel.app/) | [📁 Repo](https://github.com/Mahmoud3178/Clothing_Ecommmerce_Asp.Net-Angular-) |
-| Problem Solving — C#, OOP, EF | — | [📁 Repo](https://github.com/Mahmoud3178/problem_solving) |
-| EntityFramework & LINQ Project | — | [📁 Repo](https://github.com/Mahmoud3178/EntityFramework-LINQ-_Project) |
-| Implement ERD-1 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-1-using-EntityFrameWork) |
-| Implement ERD-2 with EF | — | [📁 Repo](https://github.com/Mahmoud3178/Implement-ERD-2-using-EF) |
 
 </details>
 
